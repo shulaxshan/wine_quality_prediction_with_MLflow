@@ -33,6 +33,7 @@ list_of_files = [
     "research/trials.ipynb",
     "setup.py",
     "config/schema.yaml",
+    "config/config.yaml",
     "templates/index.html"
 ]
 
